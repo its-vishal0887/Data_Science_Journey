@@ -22,4 +22,3 @@ the first real step into Data Science, ML, and AI.
 
 ---
 
-## 📂 Folder Structure
